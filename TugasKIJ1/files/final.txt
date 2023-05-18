@@ -1,0 +1,22 @@
+Yth Finalis Lomba Keamanan Jaringan Gemastik IV 2011
+
+Berikut ini adalah tata tertib untuk babak final :
+
+1. Babak Final Lomba Keamanan dilaksanakan dalam dua hari (lihat jadwal)
+2. Soal untuk final akan disebarkan pada hari Selasa, tanggal 4 Oktober 2011.
+3. Soal ini berisikan kode program yang dijalankan pada babak penyisihan kedua. Peserta diminta untuk menutup lubang dari program tersebut. Lubang tersebut bisa ditutup di sisi PHP, database atau di konfigurasi apache. Lubang yang perlu ditutup disisi aplikasi adalah SQL Injection dan XSS Scripting. Peserta diminta untuk mencari sendiri lubang dimaksud.
+4. Pada technical meeting akan dilakukan undian untuk menentukan letak meja dari tiap tim dan tim yang akan diserangnya dalam sesi serangan.
+5. Hari pertama: proses instalasi aplikasi PHP, database dan konfigurasi apache. Sistem Linux sudah disiapkan Panitia dalam mesin virtual. Disediakan layanan ssh untuk koneksi konsol dan scp ke mesin virtual.
+6. Ada sesi tes fungsional aplikasi, untuk menguji apakah aplikasi telah berjalan dengan baik.
+7. Diteruskan dengan sesi serangan untuk menguji apakah program telah ditutup lubangnya. Serangan dilakukan mengikuti langkah-langkah yang telah dituliskan dalam dokumentasi serangan. Yang diserang adalah aplikasi web melalui koneksi http, bukan mesin linux-nya.
+8. Hari kedua: peserta melakukan presentasi di hadapan juri tentang apa saja yang telah dilakukannya untuk menutupi lubang dari aplikasi. Konfigurasi (sisi apache atau database) apa yang membuat aplikasi web dapat lebih aman. Setiap tim mendapatkan waktu maksimal 15 menit untuk presentasi dan tanya jawab.
+9. Untuk presentasi harap disiapkan dokumen dalam format ppt atau odp. Komputer presentasi disiapkan oleh Panitia.
+10. Panitia tidak menyediakan komputer fisik selain komputer virtual yang disebutkan diatas. Peserta diminta untuk membawa sendiri notebook yang digunakan untuk instalasi dan sesi serangan. Notebook harus bisa koneksi wireless.
+11. Pemenang 1,2 dan 3 ditentukan berdasarkan akumulasi poin.
+12. Semua keputusan juri tidak bisa diganggu gugat.
+
+Dengan ini, kami lampirkan juga aplikasi web yang harus anda perbaiki dan bawa ketika babak final di ITS Surabaya beserta jadwal acara dan poin-poin penilaian. Jika ada pertanyaan, anda dapat menghubungi kami melalui email ini.
+Terima kasih atas perhatiannya
+
+Salam,
+Panitia Lomba Keamanan Jaringan Gemastik IV 2011
